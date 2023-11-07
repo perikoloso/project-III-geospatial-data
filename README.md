@@ -50,4 +50,6 @@ The following constraints are discarded:
 ![alt text](img/map_surrounded.png "New Office!")
 
 
-PPT: https://www.canva.com/design/DAFw-RhzjpA/ZBKeXK1tjffpMaPkbn4ujw/edit
+CANVA PRESENTATION:
+
+https://www.canva.com/design/DAFzg9Yimsw/h8ZODDj7z9SPirrjmOd4Vw/edit?utm_content=DAFzg9Yimsw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
